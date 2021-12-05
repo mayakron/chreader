@@ -12,7 +12,7 @@
 </h4>
 
 <h4 align="center">
-    ![Main screenshot](https://raw.githubusercontent.com/mayakron/chreader/main/resources/CHReaderMainScreenshot.png)
+    <img src="https://raw.githubusercontent.com/mayakron/chreader/main/resources/CHReaderMainScreenshot.png" alt="Main screenshot">
 </h4>
 
 ## Features
