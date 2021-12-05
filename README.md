@@ -11,11 +11,17 @@
   <a href="#credits">License</a>
 </h4>
 
-![Query tab screenshot](https://raw.githubusercontent.com/mayakron/chreader/main/resources/CHReaderMainScreenshot.png)
+<h4 align="center">
+    ![Main screenshot](https://raw.githubusercontent.com/mayakron/chreader/main/resources/CHReaderMainScreenshot.png)
+</h4>
 
 ## Features
 
-CHReader reads files contained in a local folder and writes them into a compressed archive that can be accessed, with its own embedded web server, using your preferred internet browser. This way you can store very large static web sites in an optimal space-saving way. Compiling a source folder means a complete scan (along with all of its subfolders) in search of every existing file (html files, jpeg images, zip archives, etc...) and a build of a single compressed archive optimized for fast directory searches and high speed browsing. Browsing a source archive means activating the web server embedded in this application and linking it to a previously compiled archive file. The compiled web site can be then accessed at the address http://localhost:8971/index.html.
+CHReader reads files contained in a local folder and writes them into a compressed archive that can be accessed, with its own embedded web server, using your preferred internet browser. This way you can store very large static web sites in an optimal space-saving way.
+
+Compiling a source folder means a complete scan (along with all of its subfolders) in search of every existing file (html files, jpeg images, zip archives, etc...) and a build of a single compressed archive optimized for fast directory searches and high speed browsing.
+
+Browsing a source archive means activating the web server embedded in this application and linking it to a previously compiled archive file. The compiled web site can be then accessed at the address http://localhost:8971/index.html.
 
 ## Download
 
