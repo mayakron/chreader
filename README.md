@@ -7,8 +7,8 @@
 <h4 align="center">
   <a href="#features">Features</a>&nbsp;|&nbsp;
   <a href="#download">Download</a>&nbsp;|&nbsp;
-  <a href="#download">Installation</a>&nbsp;|&nbsp;
-  <a href="#credits">License</a>
+  <a href="#installation">Installation</a>&nbsp;|&nbsp;
+  <a href="#license">License</a>
 </h4>
 
 <h4 align="center">
@@ -25,11 +25,11 @@ Browsing a source archive means activating the web server embedded in this appli
 
 ## Download
 
-The latest and all other versions of CHReader can be downloaded from [here](https://github.com/mayakron/chreader/releases).
+All versions of CHReader can be downloaded from [here](https://github.com/mayakron/chreader/releases).
 
 ## Installation
 
-For the time being CHReader is available in portable format only, therefore to install it you just need to expand its archive to a directory of your choice and run the CHReader.exe file. To uninstall CHReader it is enough to delete that directory.
+CHReader is portable: just expand the archive to a directory of your choice and run the CHReader.exe file.
 
 ## License
 
